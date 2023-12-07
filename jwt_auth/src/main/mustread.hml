@@ -1,0 +1,8 @@
+@Bean(Details:Life Cycle)
+IOC Container
+Dependency Injection
+Layers of spring boot(Service Layer,Entity Layer,DTO Layer,Repository Layer,Controller Layer)
+Design pattern (Thread Safe Singleton:Lock,synchronized, Factory pattern, Abstract Factory, Prototype, SOLID)
+Entity relations in springboot
+OOP:
+mysql: joins, acid, cascade
