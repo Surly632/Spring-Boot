@@ -1,5 +1,6 @@
 # Getting Started
-
+<h4>This is for static file handling inside spring boot. Sending static file from server to client and redirecting to the other websites and sending files from the server side.
+</h4>
 ### Reference Documentation
 For further reference, please consider the following sections:
 
